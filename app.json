@@ -8,6 +8,17 @@
       "expo-router"
     ],
     "name": "JobFinder",
-    "slug": "JobFinder"
+    "slug": "JobFinder",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c864dd94-a1de-49ee-8e4f-9b708cf4e49e"
+      }
+    },
+    "android": {
+      "package": "com.milanpanda.JobFinder"
+    }
   }
 }
